@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rol",
+				"rollback_remake_session"
+			],
+			[
+				"Inte",
+				"Internalnetworkaggdata"
+			],
+			[
+				"Internalnetwor",
+				"Internalnetworkaggdata"
+			],
+			[
+				"Integrt",
+				"IntegrityError"
+			],
+			[
+				"dis",
+				"disk_size_id"
+			],
+			[
+				"Blo",
+				"Blockdiskaggdata"
+			],
+			[
+				"exe",
+				"except"
+			],
+			[
+				"Local",
+				"Localdiskaggdata"
+			],
+			[
+				"Integr",
+				"IntegrityError"
+			],
+			[
+				"vm",
+				"vm_id"
+			],
+			[
+				"Mem",
+				"Memoryaggdata"
+			],
+			[
+				"Ind",
+				"Indexsummaryaggdata"
+			],
+			[
+				"Proce",
+				"Processoraggdata"
+			],
+			[
+				"P",
+				"Processoraggdata"
+			],
+			[
+				"inter",
+				"internal_ping_file"
+			],
+			[
+				"vo",
+				"volume_flavor_id"
+			],
+			[
+				"FIO",
+				"FIOClientArgumentParser"
+			],
+			[
+				"mi",
+				"mixed_ratio"
+			],
+			[
+				"fio",
+				"fio_result"
+			],
+			[
+				"be",
+				"bench_name"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"nu",
+				"num_thread"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"c",
+				"cs_client"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"publ",
+				"published_date"
+			],
+			[
+				"out",
+				"output_file_fd"
+			],
+			[
+				"slee",
+				"sleep"
+			],
+			[
+				"file",
+				"file_size"
+			],
+			[
+				"fiie",
+				"file_size"
+			],
+			[
+				"run",
+				"run_time"
+			],
+			[
+				"Sa",
+				"SALT_PASSWORD"
+			],
+			[
+				"SAL",
+				"SALT_USER"
+			],
+			[
+				"SA",
+				"SALT_USER"
+			],
+			[
+				"erro",
+				"error_reporting"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sibi/Backups/cloudspecs/omnipotenthera/insert_vm_data.py",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/storagebeast_fio_read and write/write only/run_fio.bat",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/omnipotenthera/hera.log",
+		"/home/sibi/Downloads/hera (2).log",
+		"/home/sibi/Backups/cloudspecs/omnipotenthera/aggregate_gen.py",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/saltstack_azure/app.py",
+		"/home/sibi/cloudspectator_sibi/saltstack/app.py",
+		"/home/sibi/Backups/cloudspectator_sibi/omnipotenthera/db.py",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/omnipotenthera/base.py",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/storagebeast/StorageBeast/cs_client/fio.json",
+		"/home/sibi/test/error.log",
+		"/home/sibi/test/fio",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/storagebeast/StorageBeast_orig/cs_client/cs_client/argument_parsers.py",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/storagebeast/StorageBeast/cs_client/fio_parser.py",
+		"/home/sibi/test/fio_install.sh",
+		"/home/sibi/test/fio.json",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/storagebeast/StorageBeast/cs_web/core/models.py",
+		"/home/sibi/Downloads/saltstack_azure_log.txt",
+		"/home/sibi/workspace/djangogirls/project/blog/template/post_list.html",
+		"/home/sibi/res.json",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/iperf_Megaport/te.py",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/saltstack/salt/profiles.conf",
+		"/home/sibi/cloudspectator_sibi/saltstack_azure/salt/profiles.conf",
+		"/home/sibi/cloudspectator_sibi/saltstack_azure/salt/maps.conf",
+		"/tmp/.fr-G2ikaj/omnipotenthera/conf.py",
+		"/home/sibi/Downloads/conf.py",
+		"/home/sibi/cloudspectator_sibi/saltstack_azure/salt/requirements.txt",
+		"/home/sibi/cloudspectator_sibi/saltstack_azure/salt/providers.conf",
+		"/home/sibi/Sidharth_Bkup/cloudspectator/saltstack/README.md",
+		"/home/sibi/cloudspectator_sibi/saltstack/README.md",
+		"/home/sibi/cloudspectator_sibi/saltstack_azure/conf.py",
+		"/home/sibi/cloudspectator_sibi/saltstack/salt/salt_run.py",
+		"/home/sibi/cloudspectator_sibi/saltstack/salt/salt_init.sh",
+		"/home/sibi/cloudspectator_sibi/omnipotenthera/conf.py",
+		"/home/sibi/cloudspectator_sibi/saltstack/conf.py",
+		"/home/sibi/cloudspectator_sibi/saltstack/salt/salt_deploy.sh",
+		"/home/sibi/cloudspectator_sibi/saltstack_azure/salt/vm_conf.json",
+		"/home/sibi/cloudspectator_sibi/saltstack/run.sh",
+		"/home/sibi/cloudspectator_sibi/saltstack/requirements.txt",
+		"/home/sibi/cloudspectator_sibi/saltstack/.gitignore",
+		"/home/sibi/Desktop/conf.py",
+		"/home/sibi/cloudspectator/spec/README.md",
+		"/home/sibi/cloudspectator/saltstack/.gitignore",
+		"/home/sibi/cloudspectator/saltstack/conf.py",
+		"/home/sibi/cloudspectator/saltstack/salt/profiles.conf",
+		"/home/sibi/cloudspectator/saltstack/salt/providers.conf",
+		"/home/sibi/cloudspectator/windows-passmark/README.md",
+		"/home/sibi/cloudspectator/vdbench/README.md",
+		"/home/sibi/cloudspectator/saltstack/README.md",
+		"/home/sibi/cloudspectator/report-generator/README.md",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows-offline/README.md",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows/README.md",
+		"/home/sibi/cloudspectator/omnipotentzeus-linux-offline/README.md",
+		"/home/sibi/cloudspectator/omnipotentzeus/README.md",
+		"/home/sibi/cloudspectator/omnipotenthera/README.md",
+		"/home/sibi/cloudspectator/boto/README.md",
+		"/home/sibi/cloudspectator/windows-passmark/.gitignore",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows/hermes.py",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows/prometheus.py",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows/conf.py",
+		"/home/sibi/urls.txt",
+		"/home/sibi/Backups/cloudspecs/omnipotentzeus-linux/20161116-1911/OmnipotentZeus/hermes.py",
+		"/home/sibi/Backups/cloudspecs/selection-engine-django-backend/backups/20160616-1702/selection-engine/requirements.txt",
+		"/home/sibi/Backups/cloudspecs/selection-engine-django-backend/backups/20160616-1702/selection-engine/usermanager/models.py",
+		"/home/sibi/Backups/cloudspecs/selection-engine-django-backend/backups/20160616-1702/selection-engine/featuremanager/admin.py",
+		"/home/sibi/Backups/cloudspecs/selection-engine-django-backend/backups/20160616-1702/selection-engine/featuremanager/models.py",
+		"/home/sibi/Backups/cloudspecs/selection-engine-django-backend/backups/20160616-1702/selection-engine/conf/settings.py",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows-offline/conf.py",
+		"/home/sibi/cloudspectator/windows-passmark/db.py",
+		"/home/sibi/cloudspectator/vdbench/parse_results.py",
+		"/home/sibi/cloudspectator/vdbench/db.py",
+		"/home/sibi/cloudspectator/selection-engine/README.md",
+		"/home/sibi/cloudspectator/test-portal/README.md",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows/run_win.bat",
+		"/home/sibi/cloudspectator/omnipotenthera/base.py",
+		"/home/sibi/cloudspectator/omnipotenthera/aggregate_gen.py",
+		"/home/sibi/cloudspectator/omnipotenthera/hera.log",
+		"/home/sibi/cloudspectator/report-gen-script/README.md",
+		"/home/sibi/cloudspectator/spec/db.py",
+		"/home/sibi/cloudspectator/spec/conf.py",
+		"/home/sibi/cloudspectator/omnipotenthera/run_ubuntu.sh",
+		"/home/sibi/cloudspectator/report-gen-script/run.sh",
+		"/home/sibi/cloudspectator/omnipotentzeus-linux-offline/.gitignore",
+		"/home/sibi/cloudspectator/boto/.gitignore",
+		"/home/sibi/cloudspectator/omnipotentzeus/.gitignore",
+		"/home/sibi/cloudspectator/saltstack/salt/salt_run.py",
+		"/home/sibi/cloudspectator/boto/boto.py",
+		"/home/sibi/cloudspectator/boto/run.sh",
+		"/home/sibi/cloudspectator/boto/requirements.txt",
+		"/home/sibi/cloudspectator/boto/conf.py",
+		"/home/sibi/cloudspectator/report-gen-script/readme.md",
+		"/home/sibi/cloudspectator/vdbench/readme.md",
+		"/home/sibi/cloudspectator/spec/readme.md",
+		"/home/sibi/cloudspectator/windows-passmark/readme.md",
+		"/home/sibi/cloudspectator/saltstack/readme.md",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows-offline/readme.md",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows/readme.md",
+		"/home/sibi/cloudspectator/omnipotentzeus-linux-offline/readme.md",
+		"/home/sibi/cloudspectator/omnipotentzeus/readme.md",
+		"/home/sibi/cloudspectator/omnipotenthera/readme.md",
+		"/home/sibi/cloudspectator/boto/readme.md",
+		"/home/sibi/cloudspectator/omnipotentzeus/hermes.py",
+		"/home/sibi/cloudspectator/omnipotentzeus-linux-offline/hermes.py",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows-offline/hermes.py",
+		"/home/sibi/cloudspectator/report-gen-script/report-gen.py",
+		"/home/sibi/cloudspectator/vdbench/conf.py",
+		"/home/sibi/cloudspectator/vdbench/base.py",
+		"/home/sibi/cloudspectator/spec/run_ubuntu.sh",
+		"/home/sibi/cloudspectator/spec/install_ubuntu.sh",
+		"/home/sibi/cloudspectator/windows-passmark/config.py",
+		"/home/sibi/cloudspectator/spec/parse_results.py",
+		"/home/sibi/cloudspectator/spec/base.py",
+		"/home/sibi/cloudspectator/omnipotentzeus-linux-offline/conf.py",
+		"/home/sibi/cloudspectator/omnipotentzeus-windows/projects/test.py",
+		"/home/sibi/cloudspectator/omnipotentzeus/conf.py",
+		"/home/sibi/boto/readme.md",
+		"/home/sibi/Desktop/forecast.sql",
+		"/home/sibi/boto/conf.py",
+		"/home/sibi/omnipotenthera/insert_vm_data.py",
+		"/home/sibi/omnipotenthera/aggregate_gen.py",
+		"/home/sibi/perf_test/perf_test/run_centos.sh",
+		"/home/sibi/perf_test/perf_test/rhel_db_setup.sh",
+		"/home/sibi/omnipotentzeus-windows-offline/win_db_setup.bat",
+		"/home/sibi/boto/boto.py",
+		"/home/sibi/Desktop/omnipotentzeus-linux-offline/conf.py",
+		"/home/sibi/Desktop/omnipotentzeus-linux-offline/run_ubuntu.sh",
+		"/home/sibi/Backups/cloudspecs/omnipotentzeus-rhel-offline/perf_test/perf_test/run_centos.sh",
+		"/home/sibi/Backups/cloudspecs/omnipotentzeus-rhel-offline/perf_test/perf_test/rhel_db_setup.sh"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/sibi/Sidharth_Bkup/cloudspectator/storagebeast/StorageBeast/cs_client/cs_client",
+			"/var/www/html/selection-engine/conf",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log_file",
+			"Bloc",
+			"single_threaded_throughput_lifetime_min",
+			"single_threaded_throughput_year_median",
+			"single_threaded_throughput_year_max",
+			"single_threaded_throughput_year_75",
+			"single_threaded_throughput_year_25",
+			"single_threaded_throughput_year_min",
+			"single_threaded_throughput_month_median",
+			"single_threaded_throughput_month_max",
+			"single_threaded_throughput_month_75",
+			"single_threaded_throughput_month_25",
+			"single_threaded_throughput_month_min",
+			"process",
+			"close",
+			"median",
+			"agg_data",
+			"indexsumm",
+			"IntegrityError",
+			"):\n",
+			"frist",
+			"vm_type",
+			"Process",
+			"throughput_write",
+			"latency_rand",
+			"iperf ==",
+			"iperf==",
+			"icmp",
+			"re",
+			"Process",
+			"multi",
+			"performance",
+			"process",
+			"get_id",
+			"disk_size",
+			"disk_size_id",
+			"Blockdiskdata",
+			"os.",
+			"agg",
+			"id",
+			"generate_aggregates",
+			"timestamp",
+			"agg_data",
+			"timesta",
+			"log_file",
+			"ping",
+			"internal_net_csv_file",
+			"-s",
+			"internal_net_csv",
+			"latency_read",
+			"OpenProcessoraggdata",
+			"double  YES      NULL                   |",
+			"| ",
+			"double  YES      NULL                   |",
+			"| ",
+			"term_list",
+			"def agg_data",
+			"agg_data",
+			"timesta",
+			"latency_read_se",
+			"log_file",
+			"results",
+			"'",
+			"u'",
+			"fio_data = json.load(fio_json)",
+			"fio_command_generator",
+			"fio_op_types",
+			"fio_command_generator",
+			"iops_read_random",
+			"generator",
+			"sub.call",
+			"return fio_command",
+			"--",
+			"fio_command_generator(fio_op_type)",
+			"def fio_command_generator",
+			"sub",
+			"subproc",
+			"session.add",
+			"memor",
+			"Processordata",
+			"internal_net_ip",
+			"csv_open = csv.reader(opener)",
+			"csv",
+			"rocesso",
+			"scho",
+			"processo",
+			"latency_write_seq",
+			"latency_read",
+			"latency_read_seq",
+			"latency_write_random",
+			"latency_read_random",
+			"field",
+			"memorydata",
+			"blockdisk",
+			"throughput_write_random_",
+			"throughput_write_seq_",
+			"diskagg",
+			"locald",
+			"memorydata",
+			"memo",
+			"interna",
+			"memory",
+			"diskda",
+			"generate",
+			"base",
+			"agg",
+			"term_list",
+			"OpenBlockdiskaggdata",
+			"Blockdiskaggdata",
+			"Localdis",
+			"Localdiskdata",
+			"internalnet",
+			"xiaoice_index",
+			"iops_read_seq_month_min",
+			"blockdis",
+			"throughput_seq_month_min",
+			" re",
+			"vol",
+			"flavor",
+			"volume",
+			"BaseVolumeResult",
+			"BaseComputeResult",
+			"print",
+			"IO_READWRITE_MODE",
+			"except",
+			",",
+			"'",
+			"fio_mode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\"",
+			"",
+			"'",
+			"latency_seq",
+			"latency_random",
+			"throughput_write",
+			"throughput_random_",
+			"throughput_seq_",
+			"",
+			"rand"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trdjango111.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
