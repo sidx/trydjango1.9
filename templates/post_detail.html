@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>{{page_title}}</title>
-</head>
-<body>
-<h3>{{post.title}}</h3></br>
-<p>{{post.content}}</p>
-{{post.timestamp}}</br>
-{{post.updated}}</br>
-</body>
-</html>
+{% extends "base.html" %}
+
+{% block content %}
+	<h3>{{post.title}}</h3></br>
+	<p>{{post.content}}</p>
+	Created: {{post.timestamp}}</br>
+	Updated: {{post.updated}}</br>
+{% endblock %}
