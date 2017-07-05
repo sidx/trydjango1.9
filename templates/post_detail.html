@@ -1,8 +1,9 @@
 {% extends "base.html" %}
 
 {% block content %}
-	<h3>{{post.title}}</h3></br>
-	<p>{{post.content}}</p>
-	Created: {{post.timestamp}}</br>
+<div class='col-sm-6 col-sm-offset-3'>
+	<h3>{{post.title}}<small>{{post.timestamp}}</small></h3>
+	<p>{{post.content|linebreaks}}</p>
 	Updated: {{post.updated}}</br>
+</div>
 {% endblock %}

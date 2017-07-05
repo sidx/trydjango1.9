@@ -15,7 +15,7 @@ def post_list(request):
 	'page_title': 'List',
 	'posts': posts
 	}
-	return render(request, 'base.html', context)
+	return render(request, 'posts_list.html', context)
 
 def post_create(request):
 	form = PostForm(request.POST or None)
